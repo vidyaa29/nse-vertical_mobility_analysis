@@ -1,4 +1,5 @@
 # nse-vertical_mobility_analysis
+## Vertical mobility analysis on NSE Experiment data conducted by Applied Complexity Group
 ### Objective: To detect vertical movement (elevators, escalators, and stairs) of humans using recordings of sensors used by students from different schools in Singapore  
 #### Various steps involved:
 1. Data cleaning
